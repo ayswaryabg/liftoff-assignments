@@ -15,4 +15,4 @@ For this assignment, you'll create some initial plans for your project.
 [Project Trello Board](https://trello.com/b/rH0BzmBK/liftoff)
 ### Project Repo Link
 
-[Project Repo](https://github.com/Zackarias00/recipe-app)
+[Project Repo](https://github.com/Zackarias00/recipe-app-retry)
